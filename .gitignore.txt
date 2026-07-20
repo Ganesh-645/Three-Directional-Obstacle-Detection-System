@@ -1,0 +1,17 @@
+# Keil
+Objects/
+Listings/
+*.obj
+*.lst
+*.lnp
+*.plg
+*.uvopt
+*.uvgui.*
+*.bak
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
